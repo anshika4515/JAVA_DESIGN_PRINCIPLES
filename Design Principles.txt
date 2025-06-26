@@ -1,0 +1,10 @@
+SOLID -> 
+   S For SRP -> Single Responsibility Principle
+   O For OCP -> Open Closed Principle
+   L For LSP -> Liskof Substitution Principle
+   I For ISP -> Interface Segregation Principle
+   D For DIP -> Dependency Inversion Principle
+
+DRY -> Don't Repeat Yourself
+KISS -> Keep it Simple Stupid
+YAGNI -> You Arent Gonna Need It
